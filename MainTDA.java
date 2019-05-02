@@ -12,5 +12,6 @@ public class MainTDA{
      System.out.println("Dimension:"  + p1.getY());
      System.out.println("Dimension:"  + p1.getZ());
      System.out.println("Dimension:"  + p1.getDimension());
+     System.out.println("Mi jao");
 	}
 }
